@@ -1,5 +1,7 @@
 # Application
 
+![Alt text](image.png)
+
 # Cette application permet de chercher les produits dont la désignation contient un mot clé
 
 * Saisie et ajouter un produit
@@ -30,4 +32,3 @@
 
 ## Utilisation de css Bootstrap
 
-![Alt text](image.png)
