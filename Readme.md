@@ -1,6 +1,6 @@
 # Application
 
-![Alt text](image.png)
+![Alt text](<architectural.drawio (1).png>)
 
 # Cette application permet de chercher les produits dont la désignation contient un mot clé
 
